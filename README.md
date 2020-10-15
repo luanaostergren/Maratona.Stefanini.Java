@@ -7,3 +7,16 @@ Conceitos de Classe, Objeto e Método;
 Fundamentos de Programação Orientada a Objetos;
 Abstração;
 Herança
+
+<h3>Segundo  dia</h3>
+Continuação das explicações sobre Java. assuntos abordados:
+Poliformismo;
+Classes Abstratas;
+Interfaces;
+Enuns;
+Conversão de Cast;
+Collections;
+Java Web;
+Servidor de Aplicação Tomcat;
+Requisições;
+Servlet
