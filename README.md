@@ -8,7 +8,7 @@ Fundamentos de Programação Orientada a Objetos;
 Abstração;
 Herança
 
-<h3>Segundo  dia</h3>
+<h3>Segundo dia</h3>
 Continuação das explicações sobre Java. assuntos abordados:
 Poliformismo;
 Classes Abstratas;
@@ -20,3 +20,12 @@ Java Web;
 Servidor de Aplicação Tomcat;
 Requisições;
 Servlet
+
+<h3>Terceiro dia</h3>
+Continuação das explicações sobre Java Web. assuntos abordados:
+Rest (Representational State Transfer);
+Apache Maven;
+JAX-RS;
+Jersey;
+Verbos HTTP;
+JSON
