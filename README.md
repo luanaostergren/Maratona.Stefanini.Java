@@ -30,7 +30,7 @@ Jersey;
 Verbos HTTP;
 JSON
 
-<h3>Quanto dia</h3>
+<h3>Quarto dia</h3>
 Continuação das explicações sobre Java Web e final da Semana Java, assuntos abordados:
 Injeção de dependências;
 Testes Unitários;
